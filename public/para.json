@@ -1,0 +1,7 @@
+[
+  "JavaScript is a high-level, versatile programming language essential for web development. It enables interactive features and dynamic content on websites, making it possible to create engaging user experiences. As a client-side scripting language, JavaScript executes in the browser, allowing developers to manipulate HTML and CSS, handle events, and perform asynchronous operations with ease.",
+
+  "React is a popular JavaScript library for building user interfaces, developed by Facebook. It allows developers to create reusable UI components that manage their own state, leading to a more modular and maintainable codebase. React's virtual DOM optimizes performance by updating only the parts of the UI that change, resulting in fast and efficient rendering.",
+
+  "Node.js is a runtime environment that allows JavaScript to be used for server-side programming. Built on Chrome's V8 engine, Node.js provides a non-blocking, event-driven architecture that excels in handling concurrent operations. This makes it ideal for building scalable network applications and APIs, leveraging JavaScript for both client-side and server-side development."
+]
